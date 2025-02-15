@@ -1,2 +1,2 @@
-# ros2_study
+#Git_study 
 This is test repository
